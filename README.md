@@ -17,7 +17,7 @@ This portfolio is intended to fill a 75–120 minute session through a lecture w
 ---
 
 ### Slide Deck + Lecture Presentation  
-Start by walking through the slide deck titled **"Planning vs. Learning: Monte Carlo Tree Search Meets Deep RL"**. This will signal when to go into the demos, which I've also linked here: 
+Start by walking through the slide deck titled **"Planning vs. Learning: Monte Carlo Tree Search Meets Deep RL"**. This will signal when to go into the demos, which I've also linked here + added directly into the repo: 
 
 1. **[MCTS on Tic-Tac-Toe](https://colab.research.google.com/drive/1C_YQ4R9zgZVxJKcHhduGvvcIY0TBNt6U?usp=sharing)**
    
