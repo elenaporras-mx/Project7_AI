@@ -43,7 +43,6 @@ The first two I've had recommended, the third and fourth, I personally enjoyed
 
 - [Monte Carlo Tree Search Overview](https://www.analyticsvidhya.com/blog/2019/01/monte-carlo-tree-search-introduction-algorithm-deepmind-alphago/?utm_source=chatgpt.com)  
 - [OpenAI's RL Finetuning Primer](https://www.interconnects.ai/p/openais-reinforcement-finetuning)  
-- **PDF**: “Planning vs. Learning: MCTS Meets Deep RL” (Included in this portfolio)
 
 ---
 
